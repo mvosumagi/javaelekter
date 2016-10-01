@@ -7,5 +7,9 @@ public class main {
         System.out.println("Elekter sisse valja prooviks!");
         System.out.println("Elekter sisse valja prooviks!");
 
+
+
+
+
     }
 }
